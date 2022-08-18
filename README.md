@@ -32,3 +32,6 @@ The echo –e option acts as an interpretation of escape characters that are bac
 
 ## wc
 The wc(word count) command is used to find out the number of new lines, word count, byte, and characters count in a file specified by the file arguments.
+
+## history 
+This command is used to show previously used commands or obtain information about the commands executed by a user.
