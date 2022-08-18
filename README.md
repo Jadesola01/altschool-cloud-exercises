@@ -23,3 +23,6 @@ This is used to remove a file or a directory.
 
 ## chmod
 This command changes the mode of a file system object 
+
+## chown
+This command is used to change the ownership of a file or folder. 
