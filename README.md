@@ -20,3 +20,6 @@ This command copies a file. it issues a copy of the file in the same directory
 
 ## rm
 This is used to remove a file or a directory. 
+
+## chmod
+This command changes the mode of a file system object 
