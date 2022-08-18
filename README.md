@@ -11,3 +11,8 @@ This changes the location of the current directory to a linux directory present 
 
 ## grep
 This finds a text in a file by searching through many files at a time to find the text you are looking for. 
+
+## su/sudo command 
+The sudo command changes the shell so it is used as a super user 
+
+
