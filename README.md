@@ -29,3 +29,6 @@ This command is used to change the ownership of a file or folder.
 
 ## echo
 The echo –e option acts as an interpretation of escape characters that are back-slashed. \n the newline character is interpreted by the echo –e command.
+
+## wc
+The wc(word count) command is used to find out the number of new lines, word count, byte, and characters count in a file specified by the file arguments.
