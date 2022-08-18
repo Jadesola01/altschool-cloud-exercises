@@ -26,3 +26,6 @@ This command changes the mode of a file system object
 
 ## chown
 This command is used to change the ownership of a file or folder. 
+
+## echo
+The echo –e option acts as an interpretation of escape characters that are back-slashed. \n the newline character is interpreted by the echo –e command.
