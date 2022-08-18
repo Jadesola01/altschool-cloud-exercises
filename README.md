@@ -15,4 +15,5 @@ This finds a text in a file by searching through many files at a time to find th
 ## su/sudo command 
 The sudo command changes the shell so it is used as a super user 
 
-
+##cp
+This command copies a file. it issues a copy of the file in the same directory
